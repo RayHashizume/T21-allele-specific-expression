@@ -197,7 +197,7 @@ re-aligning the RNA: the informative-site set is simply narrowed, and steps
 
 **Software.** R. Hashizume, *T21_ASE_pipeline*, GitHub (2026),
 https://github.com/RayHashizume/T21-allele-specific-expression. A versioned, citable archive is
-available via Zenodo: https://doi.org/10.5281/zenodo.XXXXXXX.
+available via Zenodo: https://doi.org/10.5281/zenodo.20772770.
 
 **Associated study.** A manuscript describing this work (R. Hashizume et al.) is
 in preparation; this section will be updated with the full citation and DOI upon
