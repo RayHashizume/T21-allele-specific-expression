@@ -1,5 +1,6 @@
 # T21_ASE_pipeline
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20772770.svg)](https://doi.org/10.5281/zenodo.20772770)
+
 Allele-specific quantification of the three chromosome 21 homologs in trisomy 21
 (T21) induced pluripotent stem cells from RNA-seq, for validating
 allele-specific chromosome 21 elimination (or transcriptional inactivation) at
