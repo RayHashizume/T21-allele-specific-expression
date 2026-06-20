@@ -79,7 +79,7 @@ its minimum two-sided p value is 0.1 and it is therefore underpowered. As an
 orthogonal, gene-level test of a consistent shift across chr21 genes, per-gene
 allele fractions were compared between conditions with the Wilcoxon signed-rank
 test (genes as the unit). Data were analysed in Python (pandas, NumPy, SciPy);
-analysis scripts are available at [repository].
+analysis scripts are available at https://github.com/RayHashizume/T21-allele-specific-expression (DOI: 10.5281/zenodo.20772770).
 
 **Note on mechanism.** RNA-seq quantifies expressed allelic dosage and does not
 distinguish physical chromosome elimination from transcriptional silencing of an
