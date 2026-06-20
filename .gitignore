@@ -1,0 +1,21 @@
+# 大容量データ・出力・キャッシュは公開しない
+*.bam
+*.bai
+*.fa
+*.fai
+*.fq.gz
+*.fastq.gz
+*.vcf
+*.vcf.gz
+*.tbi
+*.csi
+ASE_out/
+expr/
+stats/
+__pycache__/
+.DS_Store
+
+# logs and superseded scripts
+*.log
+previous/
+README.ja.md
